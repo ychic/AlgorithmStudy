@@ -25,8 +25,8 @@ C++
 - 스터디 모임 전까지 문제 푼 소스코드(.cpp) 업로드 해놓기
 
 ##### 참여자 💕
-[정윤식]()
-[이하연]()
+[정윤식](https://github.com/ychic)
+[이하연](https://github.com/hayeonmazu)
 [박상현](https://github.com/BbakSsang)
 [문서희](https://github.com/MunSeoHee)
 
